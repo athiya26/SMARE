@@ -1,12 +1,6 @@
 # <img src="./frontend/public/logos/smare.png" alt="Statefarm SMARE" style="width:384px;"/>
 Senior Design Repository for the Statefarm Automotive Fraud Project
 
-## Statistics
-
-![Metrics](/github-metrics.svg)
-![Pagespeed](/metrics.plugin.pagespeed.svg)
-![SMAREScreenShot](/metrics.plugin.screenshot.svg)
-
 ## Database Access
 
 Make a copy of the ``.env.example`` file and make the following changes.
